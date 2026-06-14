@@ -21,6 +21,8 @@ current_members:
     role: Prof
   - name: Matt Doyle
     role: Dr
+  - name: Emily Furlong
+    role: Dr
   - name: Rhys Grinter
     role: Dr
   - name: Johan Gustafsson
@@ -37,12 +39,12 @@ current_members:
     role: A/Prof
   - name: Craig Morton
     role: Dr
+  - name: Thomas Ve
+    role: A/Prof  
   - name: Fiona Whelan
     role: Dr
 
 former_members:
-  - name: Emily Furlong
-    role: Dr
   - name: Debnath Ghosal
     role: Dr
   - name: Begoña Heras
@@ -53,7 +55,5 @@ former_members:
     role: A/Prof
   - name: Michael Parker
     role: Prof
-  - name: Thomas Ve
-    role: A/Prof
   - name: Nadia Zatsepin
     role: A/Prof
