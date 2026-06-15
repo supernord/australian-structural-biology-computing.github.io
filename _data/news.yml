@@ -14,3 +14,7 @@
   date: 2026-04-17
   url: https://doi.org/10.6019/tol.foundations-protein-structure-t.2026.00001.1
   description: "A module added to the training material made available by EMBL-EBI. Module development was a collaboration between the ASBC community, BioCommons, and EMBL-EBI Protein Data Bank in Europe (PDBe)."
+- name: "17M protein structures added to the AlphaFold Database"
+  date: 2026-06-05
+  url: https://www.biocommons.org.au/news/colabfold-setonix
+  description: "An Australian researcher has recently contributed 17 million protein predictions to the AlphaFold Protein Structure Database, which will have a transformative impact on the international fight to combat antimicrobial resistance."

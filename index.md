@@ -38,20 +38,20 @@ This website is a virtual meeting place and hub for all users of **computing for
 Starting this year, speakers from across the structural biology community will be invited to present their work at the regular community meetings. The current plan is for there to be five of these meetings every year.  
 
 
-#### Next meeting is on May 20th 
+#### Next meeting is on July 29th 
 
 {% include tiles-simple.html target = "community_meeting" col = "1" %}
 
 
 #### All meeting dates and speakers
 
-| Date | Speaker                                                                              | Talk title                                                                |
-|------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| March 11th | **Biswa Prasanna Mishra**<br>(Griffith University) | Molecular Characterisation of the *Bacillus subtilis SpbK* antiphage defence system |
-| May 20th | **Cameron Gilchrist**<br>(Korea Basic Science Institute Ochang-center)                                    | Multiple protein structure alignment with FoldMason |
-| 29th July | TBA           |  TBA          |
-| 16th September | **Tom Goddard**<br>(UCSF) | Predicting atomic structures using OpenFold 3 in ChimeraX |
-| 12th November | TBA | TBA  |
+| Date | Speaker                                                                | Talk title                                                             |
+|------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| March 11th | **Biswa Prasanna Mishra**<br>(Griffith University)                     | Molecular Characterisation of the *Bacillus subtilis SpbK* antiphage defence system |
+| May 20th | **Cameron Gilchrist**<br>(Korea Basic Science Institute Ochang-center) | Multiple protein structure alignment with FoldMason |
+| 29th July | **Roland Dunbrack**<br>(Fox Chase Cancer Center)                       |  Structural bioinformatics and AlphaFold modeling of the human kinome and its interactions          |
+| 16th September | **Tom Goddard**<br>(UCSF)                                              | Predicting atomic structures using OpenFold 3 in ChimeraX |
+| 12th November | TBA                                                                    | TBA  |
 
 
 {% include callout.html type="note" content="These dates may change depending on other community events and the availability of speakers. " %}
