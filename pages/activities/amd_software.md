@@ -1,0 +1,41 @@
+---
+title: Porting high priority software to AMD GPUs
+description: Porting software prioritised by the community to AMD to allow software execution at Pawsey Supercomputing Research Centre and other centres operating AMD GPUs.
+type: Activity_in_progress
+roadmap: A shared platform, or platforms (Roadmap D3Ab)
+roadmap_category: Shared-platform
+contributors: [Sarah Beecroft, Joshua Storm Caley]
+toc: false
+tiles:
+  - title: "Visit the software resources page to see the tools ported to AMD GPUs"
+    url: /software
+---
+
+
+{% include tiles-simple.html target = "tiles" col = "1" %}
+
+
+## Details
+
+- Deep Learning models work natively with NVIDIA hardware.
+- Setonix at Pawsey contains a large number of AMD GPUs.
+- Models can be made to work with AMD hardware available at Pawsey.
+- This ongoing activity is specifically for the identification, prioritisation, and porting of structural biology software from NVIDIA to AMD GPUs.
+
+
+### Completed
+
+- [AMD compatible containers for nf-core proteinfold](nfcore_proteinfold_pawsey).
+
+
+### In Progress
+
+
+### Future
+
+- Continue to port software to AMD that has been prioritised by the community.
+
+
+### Acknowledgements
+
+This work was supported by Australian BioCommons and the Pawsey Supercomputing Research Centre (https://ror.org/04f2f0537). Australian BioCommons receives NCRIS funding through Bioplatforms Australia. Pawsey Supercomputing Research Centre receives funding from the Australian Government and the Government of Western Australia.
